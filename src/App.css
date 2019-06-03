@@ -9,8 +9,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 * {
   margin: 0;
   padding: 0;
-  /* font-family: 'Poppins', sans-serif; */
-font-family: 'Cabin', sans-serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 .App {
