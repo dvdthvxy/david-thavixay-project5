@@ -27,6 +27,7 @@ class App extends Component {
       hasPic: false, //state if player has a headshot
       hasStats: false //state if player has any stats for the year
     }
+    this.selectedYear = this.selectedYear.bind(this);
   }
 
   // event handler for textbox
